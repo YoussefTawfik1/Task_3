@@ -61,11 +61,6 @@ Hadwa's groups:
 Noha's groups:
  ``` 
  mongodb+srv://database:1234@cluster0.insh6i0.mongodb.net/
-If you are using Orange:
-mongodb://database:1234@ac-5otzmjg-shard-00-00.insh6i0.mongodb.net:27017,ac-
-5otzmjg-shard-00-01.insh6i0.mongodb.net:27017,ac-5otzmjg-shard-00-02.insh6i0
-.mongodb.net:27017/?ssl=true&replicaSet=atlas-
-b4fbz1-shard-0&authSource=admin&retryWrites=true&w=majority&appName=Cluster0
 
  ```
 

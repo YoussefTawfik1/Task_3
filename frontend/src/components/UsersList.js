@@ -26,7 +26,7 @@ const UsersList = () => {
     const [authors,setAuthors] = useState([]);
     
     const getAuthors =  async () => {
-         await axios.get('http://localhost:8000/users').then(
+         await axios.get('http://localhost:2000/users').then(
         (res) => { 
             const authors = res.data
             console.log(authors)
